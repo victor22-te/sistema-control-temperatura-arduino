@@ -1,0 +1,107 @@
+# ============================================================================
+# GitIgnore para Proyecto de Control de Temperatura con Arduino
+# ============================================================================
+
+# Ignorar toda la carpeta del proyecto (según lo solicitado)
+Proyecto Sistema de Control de Temperatura para Habitacion/
+
+# ============================================================================
+# Arduino IDE
+# ============================================================================
+*.hex
+*.eep
+*.elf
+*.bin
+
+# ============================================================================
+# Python (para red neuronal)
+# ============================================================================
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribución / empaquetado
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# ============================================================================
+# Sistema Operativo
+# ============================================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# ============================================================================
+# Editores / IDEs
+# ============================================================================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ============================================================================
+# Archivos temporales
+# ============================================================================
+*.tmp
+*.bak
+*.log
+*.cache
+*.temp
+
+# ============================================================================
+# Archivos de configuración local (sensibles)
+# ============================================================================
+*.local
+secrets.h
+config.local.h
