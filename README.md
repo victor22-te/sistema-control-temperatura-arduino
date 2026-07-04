@@ -231,10 +231,8 @@ sistema-control-temperatura-arduino/
 **Proyecto Integrador** - Sistema de Control de Temperatura  
 Fecha de creación: Enero 2026
 
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible para uso educativo.
-
+## Licencia
+   Este proyecto está bajo la Licencia MIT — ver [LICENSE](./LICENSE) para más detalles.
 ---
 
 💡 **Tip**: Para un mejor rendimiento, asegúrate de que la habitación esté bien ventilada y los sensores estén ubicados lejos de corrientes de aire directas.
