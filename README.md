@@ -126,7 +126,6 @@ Instalar desde el IDE de Arduino:
 1. **Clonar el repositorio**
    ```bash
    git clone <URL-del-repositorio>
-   cd PI
    ```
 
 2. **Abrir el proyecto**
@@ -175,7 +174,7 @@ const unsigned long INTERVALO_LCD = 500;       // Actualizar LCD cada 0.5s
 ## 📁 Estructura del Proyecto
 
 ```
-PI/
+sistema-control-temperatura-arduino/
 ├── ControlTemperatura.ino    # Código principal
 ├── Bonezegei_DHT11.cpp       # Implementación librería DHT11
 ├── Bonezegei_DHT11.h         # Header librería DHT11
