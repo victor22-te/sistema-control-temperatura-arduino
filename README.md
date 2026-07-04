@@ -228,7 +228,7 @@ sistema-control-temperatura-arduino/
 
 ## 👨‍💻 Autor
 
-**Victor Francisco Villafaña Hernández (Spider-MAn)**
+###Victor Francisco Villafaña Hernández (Spider-Man)
 **Proyecto Integrador** - Sistema de Control de Temperatura  
 Fecha de creación: Enero 2026
 
